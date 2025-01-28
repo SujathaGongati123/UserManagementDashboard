@@ -3,8 +3,8 @@ This is a simple web-based User Management Dashboard that allows you to view, ad
 
 Features
 
-		. View a list of users with details such as ID, Name, Email, and Department.
-		. Add a new user.
-		. Edit existing user details.
-		. Delete a user from the list.
-		. Dynamic UI updates to reflect changes immediately.
+. View a list of users with details such as ID, Name, Email, and Department.
+. Add a new user.
+. Edit existing user details.
+. Delete a user from the list.
+. Dynamic UI updates to reflect changes immediately.
